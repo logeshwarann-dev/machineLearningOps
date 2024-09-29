@@ -71,15 +71,11 @@ The following evaluation metrics are computed for both models:
 - **F1 Score**: Harmonic mean of precision and recall.
 - **Confusion Matrix**: Table showing the distribution of predicted vs actual classes.
 
+![alt text](archive/image.png)
+
+
 
 All metrics are also logged in **MLflow** for easier comparison across different runs.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Notes:
-1. Make sure to replace the URL with your actual GitHub repository link.
-2. Customize the project name, if necessary.
-3. You might also want to add any specific instructions on tuning models further based on your dataset.

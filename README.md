@@ -71,7 +71,11 @@ The following evaluation metrics are computed for both models:
 - **F1 Score**: Harmonic mean of precision and recall.
 - **Confusion Matrix**: Table showing the distribution of predicted vs actual classes.
 
-![alt text](archive/image.png)
+![alt text](archive/image1.png)
+
+![alt text](archive/image2.png)
+
+![alt text](archive/image3.png)
 
 
 
